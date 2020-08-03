@@ -1,0 +1,5 @@
+
+
+## O arquivo <<bike-sharing.csv>> foi obtido pelo site https://pycourse.s3.amazonaws.com/bike-sharing.csv
+  * Ele foi utilizado no desafio do Módulo 2. Segundo a descrição, os dados foram coletados pela Universidade do Porto.
+  * Esse arquivo foi utilizado para análise no módulo 2 (Bootcamp Desenvolvedor Python IGTI). Nesse desafio, foi fornecido o dataset, e dai os alunos tiveram de desenvovler seu próprio código para responder algumas perguntas.
